@@ -1,4 +1,4 @@
 ﻿  glad.c
   main.cpp
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  OldRecit4_try2.vcxproj -> D:\Repos\CS405_3D_Project\x64\Debug\OldRecit4_try2.exe
+  OldRecit4_try2.vcxproj -> C:\Users\kurna\Desktop\VisualStudioProjects\CS405_3D_Project\x64\Debug\OldRecit4_try2.exe
