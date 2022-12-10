@@ -116,12 +116,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\HP\Desktop\CS405 Projeleri\Denemeler\Eski Recit Denemeleri\Old Recit4\OldRecit4_try2\OldRecit4_try2\glfw-3.3.8.bin.WIN64\include;C:\Users\HP\Desktop\CS405 Projeleri\Denemeler\Eski Recit Denemeleri\Old Recit4\OldRecit4_try2\OldRecit4_try2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Repos\CS405_3D_Project\OldRecit4_try2\include;D:\Repos\CS405_3D_Project\OldRecit4_try2\glfw-3.3.8.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\HP\Desktop\CS405 Projeleri\Denemeler\Eski Recit Denemeleri\Old Recit4\OldRecit4_try2\OldRecit4_try2\glfw-3.3.8.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\Repos\CS405_3D_Project\OldRecit4_try2\glfw-3.3.8.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;opengl32.lib;user32.lib;gdi32.lib;shell32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
